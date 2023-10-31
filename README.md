@@ -61,3 +61,14 @@ Nx comes with local caching already built-in (check your `nx.json`). On CI you m
 - [Join the community](https://nx.dev/community)
 - [Subscribe to the Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - [Follow us on Twitter](https://twitter.com/nxdevtools)
+
+
+
+## Get Started
+
+**First Step : (MetaData Setup Steps)**
+
+- [Go to this site to Generate favicon](https://favicon.io/favicon-generator/)
+- Extract the icons and put all the icons in the public folder of this project instead of the default picture
+- Then Go to the ```app/_static/siteMetaData.ts``` and change the title and description of the siteMetaData object
+
